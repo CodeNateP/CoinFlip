@@ -1,0 +1,46 @@
+Body{
+    background-color: #c0fdff;
+    color:#fffeff;
+}
+
+.mainbox{
+    display: flex;
+    align-items: center;
+    
+}
+
+#flipform{
+    background-color: 	#742ef1;
+    width: 30%;
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 25px;
+    
+}
+.betbutton{
+    background-color: #deaaff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blues{
+    background-color: #deaaff;
+    border: 1px solid #deaaff;
+}
+
+.returndata{
+    background-color: 	#742ef1;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.purp{
+    background-color: 	#742ef1;
+}
